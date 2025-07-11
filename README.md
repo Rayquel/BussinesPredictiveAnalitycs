@@ -1,2 +1,8 @@
-# BussinesPredictiveAnalitycs
-Análisis de datos de salud en Python usando Google Colab. Incluye limpieza, visualización, modelado predictivo y métricas como F1-score y recall. Proyecto enfocado en predecir riesgo de ataque cardíaco con Power BI complementario.
+# 🩺 Predicción de Riesgo de Infarto
+
+Este proyecto analiza el riesgo de ataque cardíaco usando modelos de Machine Learning. Incluye limpieza de datos, visualización, regresión logística, Random Forest y más. Dataset con variables como edad, colesterol, IMC, presión arterial, etc.
+
+ Archivo principal: `trabajo_final_grupo2_bussines.py`
+
+👩‍⚕️ Ideal para estudios de salud, IA y ciencia de datos.
+
